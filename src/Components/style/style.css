@@ -1,0 +1,13 @@
+.accordion-container{
+    width: 300px;
+    border: 1px solid grey;
+    margin: 10px auto;
+}
+/* 
+.accordion-title{
+    cursor: pointer;
+} */
+
+.accordion{
+    cursor: pointer;
+}
